@@ -1,0 +1,250 @@
+{
+  "continents": [
+    {
+      "slug": "america-do-norte",
+      "name": "América do Norte",
+      "description": "A América do Norte é um subcontinente formado por 4 países: Canadá, Estados Unidos, Dinamarca (Groenlândia) e México. Na América do Norte se encontra maior fronteira em termos de extensão do planeta, entre os Estados Unidos e o Canadá.",
+      "bannerImage": "https://images.unsplash.com/photo-1523374228107-6e44bd2b524e",
+      "numberOfCountries": 4,
+      "numberOfLanguages": 5,
+      "numberOfCities": 8,
+      "mostPopularCities": [
+        {
+          "cityName": "Guadalajara",
+          "countryName": "México",
+          "countryFlag": "https://flagcdn.com/mx.svg",
+          "cityImage": "https://images.unsplash.com/photo-1512813195386-6cf811ad3542"
+        },
+        {
+          "cityName": "Nova Iorque",
+          "countryName": "Estados Unidos",
+          "countryFlag": "https://flagcdn.com/us.svg",
+          "cityImage": "https://images.unsplash.com/photo-1602940659805-770d1b3b9911"
+        },
+        {
+          "cityName": "Los Angeles",
+          "countryName": "Estados Unidos",
+          "countryFlag": "https://flagcdn.com/us.svg",
+          "cityImage": "https://images.unsplash.com/flagged/photo-1575555201693-7cd442b8023f"
+        },
+        {
+          "cityName": "Toronto",
+          "countryName": "Canadá",
+          "countryFlag": "https://flagcdn.com/ca.svg",
+          "cityImage": "https://images.unsplash.com/photo-1603466182843-75f713ba06b3"
+        },
+        {
+          "cityName": "Cancún",
+          "countryName": "México",
+          "countryFlag": "https://flagcdn.com/mx.svg",
+          "cityImage": "https://images.unsplash.com/photo-1616423841125-8307665a0469"
+        },
+        {
+          "cityName": "Orlando",
+          "countryName": "Estados Unidos",
+          "countryFlag": "https://flagcdn.com/us.svg",
+          "cityImage": "https://images.unsplash.com/photo-1618945372420-2470ece5277c"
+        },
+        {
+          "cityName": "Groenlândia",
+          "countryName": "Dinamarca",
+          "countryFlag": "https://flagcdn.com/dk.svg",
+          "cityImage": "https://images.unsplash.com/photo-1618422433457-02c7d5009390"
+        }
+      ]
+    },
+    {
+      "slug": "america-do-sul",
+      "name": "América do Sul",
+      "description": "São 13 os Países da América do Sul: Argentina, Bolívia, Brasil, Chile, Colômbia, Equador, Guiana, França (Guiana Francesa), Paraguai, Peru, Suriname, Uruguai e Venezuela A Guiana Francesa é um território ultramarino da França e não um país. Nesse subcontinente americano, a língua predominante é o Espanhol, pois o Português é falado apenas no Brasil. O nosso país é o mais populoso, com aproximadamente 200 milhões de habitantes.",
+      "bannerImage": "https://images.unsplash.com/photo-1619546952812-520e98064a52",
+      "numberOfCountries": 13,
+      "numberOfLanguages": 5,
+      "numberOfCities": 8,
+      "mostPopularCities": [
+        {
+          "cityName": "São Paulo",
+          "countryName": "Brasil",
+          "countryFlag": "https://flagcdn.com/br.svg",
+          "cityImage": "https://images.unsplash.com/photo-1599143508438-7aaa51a6d969"
+        },
+        {
+          "cityName": "Buenos aires",
+          "countryName": "Argentina",
+          "countryFlag": "https://flagcdn.com/ar.svg",
+          "cityImage": "https://images.unsplash.com/photo-1644967432396-d707567e95f3"
+        },
+        {
+          "cityName": "Lima",
+          "countryName": "Peru",
+          "countryFlag": "https://flagcdn.com/pe.svg",
+          "cityImage": "https://images.unsplash.com/photo-1577587230708-187fdbef4d91"
+        },
+        {
+          "cityName": "Rio de Janeiro",
+          "countryName": "Brasil",
+          "countryFlag": "https://flagcdn.com/br.svg",
+          "cityImage": "https://images.unsplash.com/photo-1483729558449-99ef09a8c325"
+        }
+      ]
+    },
+    {
+      "slug": "asia",
+      "name": "Ásia",
+      "description": "A Ásia, tal como a Europa, tem 50 países. É o continente mais extenso, o que apresenta a maior densidade populacional e se divide nas seguintes regiões: Sudeste Asiático, Ásia Central, Ásia Meridional, Ásia Setentrional, Ásia Oriental e Ásia Ocidental",
+      "bannerImage": "https://images.unsplash.com/photo-1464817739973-0128fe77aaa1",
+      "numberOfCountries": 50,
+      "numberOfLanguages": 2300,
+      "numberOfCities": 50,
+      "mostPopularCities": [
+        {
+          "cityName": "Hong Kong",
+          "countryName": "China",
+          "countryFlag": "https://flagcdn.com/cn.svg",
+          "cityImage": "https://images.unsplash.com/photo-1533029030467-904d7bbd602b"
+        },
+        {
+          "cityName": "Bangkok",
+          "countryName": "Tailândia",
+          "countryFlag": "https://flagcdn.com/th.svg",
+          "cityImage": "https://images.unsplash.com/photo-1563492065599-3520f775eeed"
+        },
+        {
+          "cityName": "Macau",
+          "countryName": "China",
+          "countryFlag": "https://flagcdn.com/cn.svg",
+          "cityImage": "https://images.unsplash.com/photo-1561958635-a4f95d86c771"
+        },
+        {
+          "cityName": "Dubai",
+          "countryName": "Emirados Árabes Unidos",
+          "countryFlag": "https://flagcdn.com/ae.svg",
+          "cityImage": "https://images.unsplash.com/photo-1489516408517-0c0a15662682"
+        },
+        {
+          "cityName": "Kuala Lumpur",
+          "countryName": "Malásia",
+          "countryFlag": "https://flagcdn.com/my.svg",
+          "cityImage": "https://images.unsplash.com/photo-1574218732130-6b19257fd9db"
+        },
+        {
+          "cityName": "Delhi",
+          "countryName": "Índia",
+          "countryFlag": "https://flagcdn.com/in.svg",
+          "cityImage": "https://images.unsplash.com/photo-1585483103289-39c79411fda9"
+        }
+      ]
+    },
+    {
+      "slug": "africa",
+      "name": "África",
+      "description": "São 54 os países da África. O continente africano possui o maior número de países, seguido pela Ásia e pela Europa com um total de 50 países cada. A África é também o continente mais pobre, o segundo mais populoso e o terceiro mais extenso a nível mundial.",
+      "bannerImage": "https://images.unsplash.com/photo-1523805009345-7448845a9e53",
+      "numberOfCountries": 54,
+      "numberOfLanguages": 2000,
+      "numberOfCities": 4,
+      "mostPopularCities": [
+        {
+          "cityName": "Cairo",
+          "countryName": "Egito",
+          "countryFlag": "https://flagcdn.com/eg.svg",
+          "cityImage": "https://images.unsplash.com/photo-1553913861-c0fddf2619ee"
+        },
+        {
+          "cityName": "Joanesburgo",
+          "countryName": "África do Sul",
+          "countryFlag": "https://flagcdn.com/za.svg",
+          "cityImage": "https://images.unsplash.com/photo-1577948000111-9c970dfe3743"
+        },
+        {
+          "cityName": "Marrakech",
+          "countryName": "Marrocos",
+          "countryFlag": "https://flagcdn.com/ma.svg",
+          "cityImage": "https://images.unsplash.com/photo-1587974928442-77dc3e0dba72"
+        },
+        {
+          "cityName": "Hurghada",
+          "countryName": "Egito",
+          "countryFlag": "https://flagcdn.com/eg.svg",
+          "cityImage": "https://images.unsplash.com/photo-1562679300-722c0b24717d"
+        }
+      ]
+    },
+    {
+      "slug": "europa",
+      "name": "Europa",
+      "description": "A Europa é um continente que está localizado no hemisfério norte do globo terrestre. Compreende uma área total de 10.498.000 km2 e possui uma população de 744,7 milhões de habitantes. A Federação Russa é o maior país da Europa, com 17.075.400 km2, e o mais populoso, com 143,5 milhões de habitantes.",
+      "bannerImage": "https://images.unsplash.com/photo-1473951574080-01fe45ec8643",
+      "numberOfCountries": 50,
+      "numberOfLanguages": 24,
+      "numberOfCities": 30,
+      "mostPopularCities": [
+        {
+          "cityName": "Londres",
+          "countryName": "Reino Unido",
+          "countryFlag": "https://flagcdn.com/gb.svg",
+          "cityImage": "https://images.unsplash.com/photo-1581430872221-d1cfed785922"
+        },
+        {
+          "cityName": "Paris",
+          "countryName": "França",
+          "countryFlag": "https://flagcdn.com/fr.svg",
+          "cityImage": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34"
+        },
+        {
+          "cityName": "Roma",
+          "countryName": "Itália",
+          "countryFlag": "https://flagcdn.com/it.svg",
+          "cityImage": "https://images.unsplash.com/photo-1612271598100-5443d0095025"
+        },
+        {
+          "cityName": "Praga",
+          "countryName": "República Checa",
+          "countryFlag": "https://flagcdn.com/cz.svg",
+          "cityImage": "https://images.unsplash.com/photo-1589312893179-38d2eb60655d"
+        },
+        {
+          "cityName": "Barcelona",
+          "countryName": "Espanha",
+          "countryFlag": "https://flagcdn.com/es.svg",
+          "cityImage": "https://images.unsplash.com/photo-1464790719320-516ecd75af6c"
+        },
+        {
+          "cityName": "Milão",
+          "countryName": "Itália",
+          "countryFlag": "https://flagcdn.com/it.svg",
+          "cityImage": "https://images.unsplash.com/photo-1567760848351-64554cd104ca"
+        }
+      ]
+    },
+    {
+      "slug": "oceania",
+      "name": "Oceania",
+      "description": "São 14 os Países da Oceania. No que respeita às ilhas localizadas nesse que é conhecido como Novíssimo Mundo, esse número ultrapassa os 10 mil. Com 8 milhões de km², a Oceania é o menor continente do mundo. A Austrália é o maior país desse continente com 7.741.220 km², ocupando, assim, 90% de toda a sua extensão territorial. Nauru é o menor entre os 14 países e possui apenas 20 km².",
+      "bannerImage": "https://images.unsplash.com/photo-1574791326400-feb1a7a4527b",
+      "numberOfCountries": 14,
+      "numberOfLanguages": 5000,
+      "numberOfCities": 3,
+      "mostPopularCities": [
+        {
+          "cityName": "Sydney",
+          "countryName": "Austrália",
+          "countryFlag": "https://flagcdn.com/au.svg",
+          "cityImage": "https://images.unsplash.com/photo-1528072164453-f4e8ef0d475a"
+        },
+        {
+          "cityName": "Melbourne",
+          "countryName": "Austrália",
+          "countryFlag": "https://flagcdn.com/au.svg",
+          "cityImage": "https://images.unsplash.com/photo-1577878384911-cd47ad473607"
+        },
+        {
+          "cityName": "Auckland",
+          "countryName": "Nova Zelândia",
+          "countryFlag": "https://flagcdn.com/nz.svg",
+          "cityImage": "https://images.unsplash.com/photo-1432268498682-367c6df6d9d4"
+        }
+      ]
+    }
+  ]
+}
